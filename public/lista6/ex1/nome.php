@@ -1,8 +1,8 @@
 <?php
-    function meuNome ($nome){
-        echo "$nome", "<br>";
-        echo "$nome", "<br>";
-        echo "$nome", "<br>";
+    function meuNome (){
+        echo "Diego Marques Martins", "<br>";
     }
-meuNome("Diego Marques Martins");
+meuNome();
+meuNome();
+meuNome();
 ?>
